@@ -1,4 +1,4 @@
-FROM alpine:3.11.10
+
 ENV PACKAGES="\
     musl \
     linux-headers \
